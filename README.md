@@ -1,1 +1,1 @@
-# CodeAlpha_Task_Automation_with_Python_Sripts
+# CodeAlpha_Task_Automation_with_Python_Scripts
